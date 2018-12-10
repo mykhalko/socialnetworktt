@@ -1,0 +1,84 @@
+[
+{
+    "model": "posts.post",
+    "pk": 1,
+    "fields": {
+        "title": "abc",
+        "text": "aasdasdasd",
+        "author": 3,
+        "likes": []
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 2,
+    "fields": {
+        "title": "asdsmailcom",
+        "text": "m123123",
+        "author": 7,
+        "likes": []
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 3,
+    "fields": {
+        "title": "Admin post",
+        "text": "123",
+        "author": 3,
+        "likes": []
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 5,
+    "fields": {
+        "title": "reader@gmail.com",
+        "text": "reader_password",
+        "author": 10,
+        "likes": [
+            10
+        ]
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 6,
+    "fields": {
+        "title": "first publisher post",
+        "text": "nothing",
+        "author": 11,
+        "likes": []
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 7,
+    "fields": {
+        "title": "second publisher post",
+        "text": "nothing",
+        "author": 11,
+        "likes": []
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 8,
+    "fields": {
+        "title": "one more publisher post",
+        "text": "nothing",
+        "author": 11,
+        "likes": []
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 9,
+    "fields": {
+        "title": "another publisher post",
+        "text": "nothing",
+        "author": 11,
+        "likes": []
+    }
+}
+]

@@ -1,0 +1,119 @@
+[
+{
+    "model": "accounts.user",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$120000$lVcBF5t89b2C$X7028WlGqc333b0j2rhtAcEA6U75AInVXx92dj/Eehs=",
+        "last_login": null,
+        "email": "admin@admin.com",
+        "date_joined": "2018-12-09",
+        "is_staff": true,
+        "first_name": "",
+        "last_name": ""
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 4,
+    "fields": {
+        "password": "abcpassword",
+        "last_login": null,
+        "email": "temporary@temp.com",
+        "date_joined": "2018-12-09",
+        "is_staff": false,
+        "first_name": "",
+        "last_name": ""
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 5,
+    "fields": {
+        "password": "pbkdf2_sha256$120000$XFhRwIuNFsnB$L5JD0IxF2jb+wpfOzg/0u8EQ1QtUfEHjQidsa9j7skg=",
+        "last_login": null,
+        "email": "temporar@temp.com",
+        "date_joined": "2018-12-09",
+        "is_staff": false,
+        "first_name": "",
+        "last_name": ""
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 6,
+    "fields": {
+        "password": "pbkdf2_sha256$120000$vtyIaCOzWYwU$KQUIPSHWviij1vIJ8aqTe4bSOiepM5/CuGGKkzvAiUY=",
+        "last_login": null,
+        "email": "thirdmail@mail.com",
+        "date_joined": "2018-12-09",
+        "is_staff": false,
+        "first_name": "",
+        "last_name": ""
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 7,
+    "fields": {
+        "password": "pbkdf2_sha256$120000$xQw4f7ibPlZU$o8iC6EZq+C+GvEimblv7KahZkF6sFy7olMK/4T3u6YY=",
+        "last_login": null,
+        "email": "abc@mail.com",
+        "date_joined": "2018-12-09",
+        "is_staff": false,
+        "first_name": "",
+        "last_name": ""
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 8,
+    "fields": {
+        "password": "pbkdf2_sha256$120000$YKHWOjqchZ3v$7z6fNPcuHNchPAhxMjL0sEXzLnXRWlUK6UgMYdesq+s=",
+        "last_login": null,
+        "email": "user@gmail.com",
+        "date_joined": "2018-12-10",
+        "is_staff": false,
+        "first_name": "Abba",
+        "last_name": "Adda"
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 9,
+    "fields": {
+        "password": "pbkdf2_sha256$120000$If7YpyWSeHg7$aqg5Hg5Bmh901azoW+uojAjyLImgfaNJQcajeof1C4Y=",
+        "last_login": null,
+        "email": "publisher@gmail.com",
+        "date_joined": "2018-12-10",
+        "is_staff": false,
+        "first_name": "Baab",
+        "last_name": "Daad"
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 10,
+    "fields": {
+        "password": "pbkdf2_sha256$120000$QtaIepi5wGPq$Q5W2E+LP2hbEQ+I2K+cOa4KcusKOdQMYCldYlGdvCr0=",
+        "last_login": null,
+        "email": "reader@gmail.com",
+        "date_joined": "2018-12-10",
+        "is_staff": false,
+        "first_name": "Inni",
+        "last_name": "Niin"
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 11,
+    "fields": {
+        "password": "pbkdf2_sha256$120000$SNu8clFhL1YA$iToZO9o3u/XSfipepsv869qTjfQcBLsjvh29S9vvqws=",
+        "last_login": null,
+        "email": "newpublisher@gmail.com",
+        "date_joined": "2018-12-10",
+        "is_staff": false,
+        "first_name": "",
+        "last_name": ""
+    }
+}
+]
